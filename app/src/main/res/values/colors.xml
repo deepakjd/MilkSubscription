@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>s
+    <color name="colorAccent">#000000</color>
+    <color name="colorAccentLight">#bdbdbd</color>
+    <color name="colorPrimary">#ccff90</color>
+    <color name="colorPrimaryLight">#ffffc2</color>
+    <color name="colorPrimaryDark">#99cc60</color>
+    <color name="colorText">#757575</color>
+    <color name="colorTextLight">#DDDDDD</color>
+    <color name="colorBackground">#f8ffd7</color>
+    <color name="colorButtonBackground">#ccff90</color>
+    <color name="colorWidgetBackground">#DDDDDD</color>
+    <color name="colorTextOceanBlue">#3498db</color>
+    <color name="colorTextPomegranateRed">#e74c3c</color>
+</resources>
